@@ -1,4 +1,0 @@
-release 0.2.0
-
-PR 생성2
-PR Actions 확인
