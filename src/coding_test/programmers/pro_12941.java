@@ -1,4 +1,4 @@
-package coding_test;
+package coding_test.programmers;
 
 class pro_12941 {
     public static void main(String[] args) {
