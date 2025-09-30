@@ -1,4 +1,4 @@
-package coding_test.boj;
+package coding_test.boj.previous;
 
 import java.util.Scanner;
 

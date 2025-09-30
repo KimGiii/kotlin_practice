@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/11728
 // 두 정렬된 배열을 하나로 병합하는 문제 (O(N + M))
-package coding_test.boj;
+package coding_test.boj.previous;
 
 class BOJ_11728 {
     public static void main(String[] args) throws Exception {
