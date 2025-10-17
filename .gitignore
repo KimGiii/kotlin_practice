@@ -31,3 +31,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+<<<<<<< HEAD
+=======
+!/src/coding_test/kakao/카카오_1.java
+!/src/coding_test/kakao/카카오_2.java
+!/src/coding_test/kakao/카카오_3.java
+!/src/coding_test/kakao/카카오_4.java
+>>>>>>> d292ee00d06cb646885485876bab2f75fb95bebb
